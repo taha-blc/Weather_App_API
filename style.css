@@ -7,7 +7,11 @@
 }
 
 body{
-    background: #222;
+    background:url(images/background.jpg);
+    background-repeat:no-repeat ;
+    background-position: center;
+    background-size: fixed;
+    background-size: cover;
 }
 
 .card{
